@@ -28,3 +28,6 @@ https://github.com/sanjuskm05/mintonomous-boot-app
 
 GUI:
 https://github.com/sanjuskm05/my-plant-main
+
+# Topology
+![image](https://user-images.githubusercontent.com/8688478/145686292-f824b964-2349-453d-8b8b-2d39714b3d6f.png)
